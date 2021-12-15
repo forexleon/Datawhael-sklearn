@@ -1,2 +1,2 @@
-# test
-study test
+# Datawhale study team
+1st project - sklearn
